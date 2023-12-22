@@ -110,7 +110,7 @@ public class Game {
                 if (enemy.getHP() <= 0) {
                     if (bossBattle) {
                         System.out.println("\n★★★★★★★★★★★★★★★★★★★★★★★★★★★★");
-                        System.out.println(TEXT_MAGENTA + "\nCONGRADULATIONS ! THE DUNGEON IS CLEARED !" + TEXT_RESET);
+                        System.out.println(TEXT_MAGENTA + "\nCONGRATULATIONS ! THE DUNGEON IS CLEARED !" + TEXT_RESET);
                         System.out.println("\n★★★★★★★★★★★★★★★★★★★★★★★★★★★★");
                         System.out.println("\nCONTINUE DEEPER DOWN (C) OR EXIT DUNGEON (E) ?");
                         choice = INPUT.nextLine();

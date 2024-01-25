@@ -19,7 +19,7 @@ Player can choose from the following character classes:
 1. **Warrior:** A strong, tough, and well-rounded fighter.
 2. **Rouge:** Quick and nimble, effective at landing critical attacks.
 3. **Berserker:** Powerful and reckless, but lacks armour for defense.
-4. **Brute:** nHard-to-kill, but packs a weak punch.
+4. **Brute:** Hard-to-kill, but packs a weak punch.
 
 Each class has a unique stat for maximum hitpoints, attack strength, critical hit chance, and potion drop chance from slain enemies.
 
